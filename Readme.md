@@ -40,4 +40,6 @@ _Certificate issued by LinkedIn Learning_
 
 ---
 
-## [View my LinkedIn Learning Certificate](certificate.jpg)
+![LinkedIn Learning Certificate - Excel to Tableau](Certificate%20of%20Completion/LinkedIn%20Learning%20Certificate%20-%20Excel%20to%20tableau.png)
+
+
