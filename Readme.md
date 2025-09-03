@@ -1,6 +1,7 @@
 # From Excel to Tableau – LinkedIn Learning Certificate
 
-![Certificate](certificate.jpg)
+[View Certificate (PDF)](Certificate%20of%20Completion/CertificateOfCompletion_From%20Excel%20to%20Tableau.pdf)
+
 
 ## Overview
 
