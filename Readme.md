@@ -6,53 +6,51 @@
 
 ---
 
-## 📊 Tableau Projects Completed
+## 📊 Tableau Projects
 
-As part of the course and my own exploration, I built these Tableau analytical dashboards:
+As part of the LinkedIn Learning course, I completed the following Tableau analytics projects (see `/WorkBooks` for source files):
 
-### **1. [Bank Performance Over Time](Bank-Performance-over-time.twb)**  
-Interactive dashboard visualizing multi-year bank trends, profit/loss patterns, and summary tables from imported raw Excel data.
+### 1. **[Bank Performance over time.twb](WorkBooks/Bank%20Performance%20over%20time.twb)**
+- Visualizes changing trends in key bank performance metrics across years.
+- Highlights growth and decline patterns using Tableau dashboards.
 
-### **2. [2010 Had the Highest Estimated Losses](2010-had-the-highest-est-Losses.twb)**  
-Drilled down using Tableau to identify years with outlier losses. 2010 uniquely stood out with record-high losses, confirmed by dynamic charts.
-
----
-
-## 📝 About This Learning Project
-
-This repo demonstrates how Tableau can be used (after Excel) to transform and visualize finance/banking datasets for faster insight.  
-It was developed alongside LinkedIn Learning’s “From Excel to Tableau” program to master:
-
-- Importing/cleaning data from spreadsheets in Tableau  
-- Building bar, line, and summary dashboards  
-- Using filters, calculated fields, and interactive elements  
-- Sharing analytic findings visually—not just in spreadsheets
+### 2. **[2010 had the highest est Losses.twb](WorkBooks/2010%20had%20the%20highest%20est%20Losses.twb)**
+- Focused dashboard highlighting year-over-year estimated losses.
+- Uses filters and visuals to spotlight 2010 as a unique outlier year for loss.
 
 ---
 
-## 📈 Top Skills Used
+## 📝 What You’ll Learn
 
-- **Tableau Desktop**
-- Data Import & Preparation
-- Dashboard Design
-- Outlier & Trend Analysis
-- Data Storytelling
+- How to import, clean, and transform Excel data inside Tableau.
+- Building interactive visualizations (bar, line, summary dashboards, etc.).
+- Analyzing and presenting time-based data and outliers.
+- Dashboard/story creation and publishing best practices.
+
+---
+
+## 📈 Skills Demonstrated
+
+- Tableau Desktop
+- Visual Analytics & Storytelling
+- Outlier/Trend Analysis
+- Data Preparation
 
 ---
 
 ## 📜 Certification Details
 
-- **Completed by:** Srujan Shekar Shetty  
-- **Date:** Jan 04, 2025  
-- **Duration:** 1 hour 32 minutes  
-- **Issued by:** [LinkedIn Learning](https://www.linkedin.com/learning/)
+- **Learner:** Srujan Shekar Shetty
+- **Completed:** Jan 04, 2025
+- **Duration:** 1 hour 32 minutes
+- **Provider:** LinkedIn Learning
 
 ---
 
-_This credential verifies successful completion through LinkedIn Learning assessments, exercises, and practical dashboards._
+_This certificate verifies successful course/project completion through LinkedIn Learning labs and assessments._
 
 ---
 
 ## 📬 Questions?
 
-Feel free to reach out or open an issue if you want to discuss Tableau learning or techniques!
+Open an issue or contact me for Tableau portfolio/demo requests!
